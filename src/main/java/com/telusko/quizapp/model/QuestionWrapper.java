@@ -3,7 +3,7 @@ package com.telusko.quizapp.model;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-//To ignore correct answer
+
 @Data
 @AllArgsConstructor
 public class QuestionWrapper {
