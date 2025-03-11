@@ -13,7 +13,10 @@ public class Quiz {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
-    private String titleA;
+
+
+    private String titles;
+
 
     @ManyToMany
     private List<Question> question;
