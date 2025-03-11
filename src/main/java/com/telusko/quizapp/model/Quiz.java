@@ -9,7 +9,7 @@ import java.util.List;
 @Data
 @Entity
 public class Quiz {
-
+    //Quiz table
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
