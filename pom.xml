@@ -42,7 +42,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
-			<artifactId>lombok</artifactId>
+			<artifactId>lombok</artifactId> <!-- Spring Data Lombok -->
 			<optional>true</optional>
 		</dependency>
 		<dependency>
